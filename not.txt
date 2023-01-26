@@ -1,1 +1,10 @@
 git config --global user.name "name surnme"
+git add .
+touch newfile.txt
+git status
+git init
+git add
+git commit -m "message"
+git log
+
+***gitignoreye tekrar çalış*** çalışıldı
