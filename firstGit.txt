@@ -1,1 +1,9 @@
 BTK akademi GİT ve Github eğitim sürecindeyim.
+git config --global user.name ""
+git config --global user.email ""
+git log
+git init
+git add
+git rm
+git commit -m
+git status
